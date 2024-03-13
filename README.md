@@ -13,9 +13,11 @@ Welcome to my portfolio website repository! This project was developed using Nex
 
 - **Next.js 14**: The core framework for building the website, providing server-side rendering, routing, and other essential features.
 - **React**: Utilized for building the user interface components, ensuring a modular and reusable codebase.
+- **TypeScript**: Bringing static typing to the project for improved developer experience and code quality.
 - **CSS Modules**: Scoped CSS stylesheets to maintain component-level styling without global conflicts.
 - **Tailwind CSS**: For rapid prototyping and styling of components, ensuring a modern and visually appealing design.
 - **Vercel**: Deployed the website to Vercel for seamless integration with Next.js and automatic deployment on every commit.
+
 
 ## Getting Started
 
@@ -23,11 +25,11 @@ To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/awkward-py/awkwardpy-main.git
    ```
 2. Navigate to the project directory.
    ```bash
-   cd portfolio
+   cd awkwardpy-main
    ```
 3. Install dependencies using npm or yarn.
    ```bash
@@ -51,6 +53,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Thank you for visiting my portfolio repository! Feel free to explore the code and reach out if you have any questions or feedback.
