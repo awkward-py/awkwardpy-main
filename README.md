@@ -1,16 +1,13 @@
 # official website of awkwardpy
 
-# My Portfolio Website
-
 Welcome to my portfolio website repository! This project was developed using Next.js 14, a powerful and flexible framework for building React applications. Here, I showcase my skills, projects, and experiences to provide an overview of my journey as a developer.
 
 ## Features
 
-- **Responsive Design**: The website is optimized for various screen sizes, ensuring a seamless experience across devices.
 - **Dynamic Routing**: Utilizing Next.js's routing capabilities, each section of the website has its own URL, making it easy to navigate and share.
 - **Project Showcase**: A dedicated section to highlight my projects, including descriptions, screenshots, and links to live demos or repositories.
 - **Skills and Technologies**: Displaying a list of skills and technologies I'm proficient in, demonstrating my expertise to potential collaborators or employers.
-- **Contact Form**: A contact form allowing visitors to reach out to me directly with inquiries or opportunities.
+- **Source code**: A source code for developers to reach out to me directly with github or opportunities.
 
 ## Technologies Used
 
@@ -18,7 +15,6 @@ Welcome to my portfolio website repository! This project was developed using Nex
 - **React**: Utilized for building the user interface components, ensuring a modular and reusable codebase.
 - **CSS Modules**: Scoped CSS stylesheets to maintain component-level styling without global conflicts.
 - **Tailwind CSS**: For rapid prototyping and styling of components, ensuring a modern and visually appealing design.
-- **Formik**: Handling form state and validation for the contact form, simplifying the process of capturing user input.
 - **Vercel**: Deployed the website to Vercel for seamless integration with Next.js and automatic deployment on every commit.
 
 ## Getting Started
