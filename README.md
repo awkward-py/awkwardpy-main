@@ -8,10 +8,11 @@ Welcome to the official repository of the AwkwardPy portfolio website! This proj
 - **Project Showcase**: A dedicated section highlights my projects with descriptions, screenshots, and links to live demos or repositories.
 - **Skills and Technologies**: Displaying a comprehensive list of skills and technologies I'm proficient in, demonstrating expertise to potential collaborators or employers.
 - **Source Code Access**: Providing access to the source code for developers interested in collaboration or exploring opportunities.
+  
 - **Social Links**: Connect with me on social media:
-  - [Twitter](https://twitter.com/awkwardpy)
-  - [LinkedIn](https://www.linkedin.com/in/awkwardpy/)
+  - [Twitter](https://twitter.com/awkwardpy_)
   - [GitHub](https://github.com/awkward-py)
+  - [nstagram](https://github.com/awkwardpy)
 
 ## Technologies Used
 
