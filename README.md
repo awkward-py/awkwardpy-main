@@ -19,7 +19,7 @@ Welcome to the official repository of the AwkwardPy portfolio website! This proj
 - **Social Links**: Connect with me on social media:
   - [Twitter](https://twitter.com/awkwardpy_)
   - [GitHub](https://github.com/awkward-py)
-  - [nstagram](https://github.com/awkwardpy)
+  - [Instagram](https://github.com/awkwardpy)
 
 ## Technologies Used
 
