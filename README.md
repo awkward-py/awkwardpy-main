@@ -3,7 +3,8 @@
 # Official Website of awkwardpy
 
 Welcome to the official repository of the AwkwardPy portfolio website! This project showcases my skills, projects, and experiences, providing an overview of my journey as a developer. Developed using Next.js 14, a powerful framework for building React applications, this website is designed to be dynamic, responsive, and visually appealing.
-</br>
+
+
 </div>
 
 ![Portfolio Website Screenshot](https://github.com/awkward-py/awkwardpy-main/blob/main/.github/images/msedge_rtoUDGaxbk.png)
