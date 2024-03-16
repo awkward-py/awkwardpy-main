@@ -104,6 +104,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue.svg?style=for-the-badge&logo=twitter&colorB=1DA1F2)](https://twitter.com/YourTwitterHandle)
+[!Twitter Badge]:https://img.shields.io/badge/-Twitter-blue.svg?style=for-the-badge&logo=twitter&colorB=1DA1F2
 [linkedin-url]: https://twitter.com/awkwardpy_
 
