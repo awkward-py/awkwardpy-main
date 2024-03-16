@@ -11,7 +11,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Twitter][twitter-shield]][Twitter Badgel]
+[![Twitter][twitter-shield]][Twitter Badge]
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
