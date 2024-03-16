@@ -1,7 +1,7 @@
+Your README looks great! I've made a few adjustments to correct the Twitter badge and the alignment of the social links section. Here's the corrected version:
+
+```markdown
 <div id="top"></div>
-
-
-
 
 <br />
 <div align="center">
@@ -11,7 +11,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Twitter][twitter-shield]][Twitter Badge]
+[![Twitter][twitter-shield]][twitter-url]
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
@@ -104,6 +104,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[Twitter Badge]:https://img.shields.io/badge/-Twitter-blue.svg?style=for-the-badge&logo=twitter&colorB=1DA1F2
-[linkedin-url]: https://twitter.com/awkwardpy_
+[twitter-shield]: https://img.shields.io/badge/-Twitter-blue.svg?style=for-the-badge&logo=twitter&colorB=1DA1F2
+[twitter-url]: https://twitter.com/awkwardpy_
+```
+
 
