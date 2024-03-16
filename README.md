@@ -9,10 +9,10 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![Twitter][twitter-shield]][twitter-url]
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Awkwardpy Portfolio Website</h3>
 
   <p align="center">
-   AwkwardPy portfolio website
+   Built in Next-js14, Typescript and Tailwind Css
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
