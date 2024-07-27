@@ -30,7 +30,7 @@ export const Footer = () => {
         </div>
 
         <div className="mb-[20px] text-[15px] text-center">
-          &copy; Pankaj Rawat {new Date().getFullYear()} Built with Next.js 14
+          &copy; Pankaj Rawat Project {new Date().getFullYear()} Built with Next.js 14
         </div>
       </div>
     </div>
