@@ -262,20 +262,20 @@ export const OTHER_SKILL = [
 export const PROJECTS = [
   {
     title: "Web Development",
-    description:'Empower Your Sites with Top-tier Coding Expertise. Our team of skilled developers offers comprehensive coding solutions tailored to your needs. From building robust applications to optimizing existing code, we deliver excellence at every stage of development.',
+    description:'From building robust applications to optimizing existing code, I deliver excellence at every stage of development.',
     link: "https://github.com/awkward-py",
   },
   {
     title: "Edits with me",
     description:
-      'Bring Your Imagery to Life with Expert Editing. I specializes in enhancing videos and photos to captivate your audience. From color correction and cropping to adding special effects and transitions, we turn your raw footage into polished masterpieces.',
+      'From color correction and cropping to adding special effects and transitions, I turn your raw footage into polished masterpieces.',
    
     link: "https://github.com/awkward-py",
   },
   {
     title: "Beginner Coding Projects",
     description:
-      'Dive into the world of programming with our beginner-friendly projects designed to introduce you to the fundamentals of coding. Whether you are interested in web development, game design, or app creation',
+      'The world of programming with our beginner-friendly projects designed to introduce you to the fundamentals of coding. Whether you are interested in web development.',
  
     link: "https://github.com/awkward-py",
   },
