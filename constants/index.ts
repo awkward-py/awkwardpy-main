@@ -328,7 +328,7 @@ export const FOOTER_DATA = [
       {
         name: "IT-off Topics",
         icon: null,
-        link: "https://eh7q7h2ipvofxqhdjs39vg.on.drv.tw/IT-off%20topicsss/IITinas/",
+        link: "https://off-topics.vercel.app/First.html",
       },
       {
         name: "Learning about me",
