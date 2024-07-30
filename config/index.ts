@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const siteConfig: Metadata = {
-  title: "Awkwardpy World",
-  description: "Welcome to my full stack Next.js-14 awkwardpy world.",
+  title: "Awkwardpy-NextApp",
+  description: "Pankaj Rawat's Project built with Next.Js 14",
   keywords: [
     "reactjs",
     "nextjs",
